@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sarv Narayan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi 👋, I'm Sarv Narayan
+<h4>A passionate frontend developer from India</h4>
 
 - 🔭 I’m currently working on **React JS**
 
